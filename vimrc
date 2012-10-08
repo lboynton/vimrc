@@ -7,3 +7,4 @@ set smartcase
 set hlsearch
 set incsearch
 set pastetoggle=<F2>
+set number
